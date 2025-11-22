@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://uttamj.github.io/music-streaming",
+  "homepage": "https://uttamrj.github.io/music-streaming",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
